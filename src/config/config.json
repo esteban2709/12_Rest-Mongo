@@ -1,0 +1,8 @@
+{
+    "dataBase": {
+        "person": "mongodb+srv://stebanda2709:dvaZE8usn7I7OtXI@cluster0.gkbqz.mongodb.net/Redeban?retryWrites=true&w=majority&appName=Cluster0"
+    },
+    "server": {
+        "port": 3005
+    }
+}
