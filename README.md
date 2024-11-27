@@ -1,4 +1,10 @@
-Url to run on local:
+## Correr el proyecto
+-> node app.js
+
+
+## Realizar peticiones
+
+Url to post on local:
 
 http://localhost:3005/person/savePerson
 
